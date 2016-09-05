@@ -24,7 +24,6 @@ configure
 *.tar.bz2
 *.tar.xz
 libtool
-m4/
 stamp-*
 .deps
 .dirstamp

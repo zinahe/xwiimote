@@ -1,0 +1,4 @@
+config BR2_PACKAGE_XWIIMOTE
+	bool "xwiimote"
+	help
+		Open Source Nintendo Wii Remote Linux Device Driver
